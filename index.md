@@ -3,11 +3,12 @@ layout: page
 title: ./RANDALLTUX
 tagline: This website is UNDER CONSTRUCTION
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Sorry, this website is under construction..
+For more information, see the contact below:
+[My twitter](http://twitter.com/randalltux)
+[My Facebook](http://facebook.com/BadayRandaL)
+[My Other Site](http://randalltux.96.lt)
 
 ## Update Author Attributes
 
