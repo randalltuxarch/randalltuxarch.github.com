@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: ./RANDALLTUX
+tagline: This website is UNDER CONSTRUCTION
 ---
 {% include JB/setup %}
 
